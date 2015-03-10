@@ -16,8 +16,8 @@ Suggestions and contributions are welcome, please read the [contributing guideli
 
 ###Basics
 
-* [**Composer, Autoloading, Namespacing, and PHPUnit**](https://www.youtube.com/watch?v=84j61_aI0q8) - Tuts+ Code `[23:53]`
-* [**Clean Code I: Arguments**](https://vimeo.com/13439458) - Uncle Bob, not PHP-specific `[53:33]`
+* [**Composer, Autoloading, Namespacing, and PHPUnit**](https://www.youtube.com/watch?v=84j61_aI0q8) - Tuts+ Code `[23:53]`- Watched
+* [**Clean Code I: Arguments**](https://vimeo.com/13439458) - Uncle Bob, not PHP-specific `[53:33]` - Watched
 * [**Clean Code II: Functions**](https://vimeo.com/12643301) - Uncle Bob, not PHP-specific `[51:30]`
 
 [Back to top](#php-must-watch)
